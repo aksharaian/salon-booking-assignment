@@ -1,4 +1,4 @@
-<h1>Api documentation ====> <a href="https://warped-space-79686.postman.co/workspace/My-Workspace~6a441b36-e381-40f1-8a69-c619b8b0cf36/documentation/15695106-6bd132d2-6b2e-40ee-aa2d-1798e022d99e">link</a></h1>
+<h1>Api documentation ====> <a href="https://documenter.getpostman.com/view/15695106/2sA35MzytT">link</a></h1>
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
